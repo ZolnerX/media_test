@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publicis Sapient</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&amp;display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script src="https://3d-vrlive.co.uk/ps/js/shared.js?ver=1.2"></script>
+<link rel="stylesheet" type="text/css" href="https://3d-vrlive.co.uk/ps/default.css?ver=1.4">
+</head>
+<body>
+<div class="wrapper">
+	<h1>2022 Strategy Summit - Day 2</h1>
+    <div class="grid2">
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3a.png" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>Day 2 - Full stream</p>
+            </div>
+            <a href="javascript:;" id="vidopen_0"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3b.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>Welcome </p>
+            </div>
+            <a href="javascript:;" id="vidopen_1"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3c.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>Meet Tremend</p>
+            </div>
+            <a href="javascript:;" id="vidopen_2"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3d.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>Intro to Accessibility</p>
+            </div>
+            <a href="javascript:;" id="vidopen_3"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3e.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>How We Grow</p>
+            </div>
+            <a href="javascript:;" id="vidopen_4"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3f.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>How We Thrive</p>
+            </div>
+            <a href="javascript:;" id="vidopen_5"></a>
+        </div>
+        <div class="videothumb">
+        	<div class="vtimg">
+            	<img src="https://3d-vrlive.co.uk/ps/images/thumbnail3g.jpg" class="thumb">
+            </div>
+        	<div class="vttxt">
+            	<p>Aspire Winners</p>
+            </div>
+            <a href="javascript:;" id="vidopen_6"></a>
+        </div>
+    </div>
+</div>
+
+<div id="video_0" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/_4JJ4W0yn8U" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>	
+<div id="video_1" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/jQFAZNWCx20" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>	
+<div id="video_2" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/LrJJQiOFy9A" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>	
+<div id="video_3" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/_XLWzdHhbh8" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>	
+<div id="video_4" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/sgtBZRDm1_U" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>		
+<div id="video_5" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/bv-PQMEL6Ks" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 46px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>		
+<div id="video_6" class="videopopup asset">
+	<div class="videopopupclose"></div>			
+    <iframe src="https://www.youtube.com/embed/gzUdIy-Wcbo" width="100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;width:96%;height:calc(100% - 38px);position:absolute;top:38px;left:0;right:0;bottom:0;margin:0 auto;"></iframe>
+</div>	
+
+ 
+		
+<div class="mask"></div>    
+
+</body></html>
